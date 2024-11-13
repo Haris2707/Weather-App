@@ -23,7 +23,7 @@ A simple and user-friendly Weather App that provides current weather information
 
 ## Screenshots 📸
 ### Home Page
-![Weather App Screenshot](./assets/img/preview.png)
+![Weather App Screenshot](assets/img/preview.png)
 
 ---
 
